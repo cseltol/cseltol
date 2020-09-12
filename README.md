@@ -1,3 +1,3 @@
 <p align="center">
-  Hi there 👋 <br/>
+  Hi there! 👋 <br/>
 </p>
