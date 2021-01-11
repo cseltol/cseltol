@@ -1,5 +1,5 @@
 <p align="center">
-  Hi there! 👋 <br/>
+  <h1> Hi there! 👋 <br/> <h1>
 </p>
 
 ### 📈 GitHub Stats
