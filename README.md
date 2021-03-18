@@ -1,6 +1,13 @@
-<p align="center">
-  <h1> Hi there! 👋 <br/> <h1>
-</p>
+
+## Hello there! 👋
+  
+### 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat-square&logo=rust&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
+
 
 ### 📈 GitHub Stats
 <p align="center">
