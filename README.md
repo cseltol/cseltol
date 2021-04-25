@@ -23,5 +23,5 @@
 <br />
 
 <p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=extremecodetv.visitor-badge&color=5194f0" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=cseltol.visitor-badge&color=5194f0" />
 </p>
