@@ -2,8 +2,9 @@
 ### 👋 Hello there!
   
 ### 🔧 PL
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
 
 ### 📈 GitHub Stats
 <p align="center">
