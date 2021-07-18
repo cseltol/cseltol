@@ -1,7 +1,7 @@
 
 ### 👋 Hello there!
   
-### 🔧 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat-square&logo=rust&logoColor=white&color=5194f0)
+### 🔧 ![](https://img.shields.io/badge/Rust-informational?style=flat-square&logo=rust&logoColor=white&color=5194f0) ![](https://img.shields.io/badge/Go-informational?style=flat-square&logo=go&logoColor=white&color=5194f0)
 
 ### 📈 GitHub Stats
 <p align="center">
